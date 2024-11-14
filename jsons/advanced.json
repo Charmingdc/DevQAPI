@@ -1,0 +1,380 @@
+{
+  "advanced": [
+            {
+                "question": "Explain the concept of distributed systems.",
+                "answerHint": "Provide an in-depth explanation of distributed systems."
+            },
+            {
+                "question": "Explain the concept of CAP theorem.",
+                "answerHint": "Provide an in-depth explanation of CAP theorem."
+            },
+            {
+                "question": "Explain the concept of eventual consistency.",
+                "answerHint": "Provide an in-depth explanation of eventual consistency."
+            },
+            {
+                "question": "Explain the concept of strong consistency.",
+                "answerHint": "Provide an in-depth explanation of strong consistency."
+            },
+            {
+                "question": "Explain the concept of sharding in databases.",
+                "answerHint": "Provide an in-depth explanation of sharding in databases."
+            },
+            {
+                "question": "Explain the concept of load balancing.",
+                "answerHint": "Provide an in-depth explanation of load balancing."
+            },
+            {
+                "question": "Explain the concept of horizontal scaling.",
+                "answerHint": "Provide an in-depth explanation of horizontal scaling."
+            },
+            {
+                "question": "Explain the concept of vertical scaling.",
+                "answerHint": "Provide an in-depth explanation of vertical scaling."
+            },
+            {
+                "question": "Explain the concept of message queues.",
+                "answerHint": "Provide an in-depth explanation of message queues."
+            },
+            {
+                "question": "Explain the concept of event sourcing.",
+                "answerHint": "Provide an in-depth explanation of event sourcing."
+            },
+            {
+                "question": "Explain the concept of CQRS.",
+                "answerHint": "Provide an in-depth explanation of CQRS."
+            },
+            {
+                "question": "Explain the concept of microservices communication patterns.",
+                "answerHint": "Provide an in-depth explanation of microservices communication patterns."
+            },
+            {
+                "question": "Explain the concept of containerization.",
+                "answerHint": "Provide an in-depth explanation of containerization."
+            },
+            {
+                "question": "Explain the concept of Kubernetes basics.",
+                "answerHint": "Provide an in-depth explanation of Kubernetes basics."
+            },
+            {
+                "question": "Explain the concept of Docker Swarm.",
+                "answerHint": "Provide an in-depth explanation of Docker Swarm."
+            },
+            {
+                "question": "Explain the concept of cloud architecture.",
+                "answerHint": "Provide an in-depth explanation of cloud architecture."
+            },
+            {
+                "question": "Explain the concept of serverless computing.",
+                "answerHint": "Provide an in-depth explanation of serverless computing."
+            },
+            {
+                "question": "Explain the concept of edge computing.",
+                "answerHint": "Provide an in-depth explanation of edge computing."
+            },
+            {
+                "question": "Explain the concept of API gateways.",
+                "answerHint": "Provide an in-depth explanation of API gateways."
+            },
+            {
+                "question": "Explain the concept of monorepos.",
+                "answerHint": "Provide an in-depth explanation of monorepos."
+            },
+            {
+                "question": "Explain the concept of multi-threading.",
+                "answerHint": "Provide an in-depth explanation of multi-threading."
+            },
+            {
+                "question": "Explain the concept of parallel processing.",
+                "answerHint": "Provide an in-depth explanation of parallel processing."
+            },
+            {
+                "question": "Explain the concept of deadlocks.",
+                "answerHint": "Provide an in-depth explanation of deadlocks."
+            },
+            {
+                "question": "Explain the concept of race conditions.",
+                "answerHint": "Provide an in-depth explanation of race conditions."
+            },
+            {
+                "question": "Explain the concept of transaction management.",
+                "answerHint": "Provide an in-depth explanation of transaction management."
+            },
+            {
+                "question": "Explain the concept of ACID properties.",
+                "answerHint": "Provide an in-depth explanation of ACID properties."
+            },
+            {
+                "question": "Explain the concept of BASE principles.",
+                "answerHint": "Provide an in-depth explanation of BASE principles."
+            },
+            {
+                "question": "Explain the concept of domain-driven design.",
+                "answerHint": "Provide an in-depth explanation of domain-driven design."
+            },
+            {
+                "question": "Explain the concept of bounded contexts.",
+                "answerHint": "Provide an in-depth explanation of bounded contexts."
+            },
+            {
+                "question": "Explain the concept of system design principles.",
+                "answerHint": "Provide an in-depth explanation of system design principles."
+            },
+            {
+                "question": "Explain the concept of NoSQL databases.",
+                "answerHint": "Provide an in-depth explanation of NoSQL databases."
+            },
+            {
+                "question": "Explain the concept of schema design.",
+                "answerHint": "Provide an in-depth explanation of schema design."
+            },
+            {
+                "question": "Explain the concept of data partitioning.",
+                "answerHint": "Provide an in-depth explanation of data partitioning."
+            },
+            {
+                "question": "Explain the concept of replication strategies.",
+                "answerHint": "Provide an in-depth explanation of replication strategies."
+            },
+            {
+                "question": "Explain the concept of rate limiting.",
+                "answerHint": "Provide an in-depth explanation of rate limiting."
+            },
+            {
+                "question": "Explain the concept of circuit breaker patterns.",
+                "answerHint": "Provide an in-depth explanation of circuit breaker patterns."
+            },
+            {
+                "question": "Explain the concept of distributed tracing.",
+                "answerHint": "Provide an in-depth explanation of distributed tracing."
+            },
+            {
+                "question": "Explain the concept of observability in systems.",
+                "answerHint": "Provide an in-depth explanation of observability in systems."
+            },
+            {
+                "question": "Explain the concept of service discovery.",
+                "answerHint": "Provide an in-depth explanation of service discovery."
+            },
+            {
+                "question": "Explain the concept of chaos engineering.",
+                "answerHint": "Provide an in-depth explanation of chaos engineering."
+            },
+            {
+                "question": "Explain the concept of immutable infrastructure.",
+                "answerHint": "Provide an in-depth explanation of immutable infrastructure."
+            },
+            {
+                "question": "Explain the concept of infrastructure as code.",
+                "answerHint": "Provide an in-depth explanation of infrastructure as code."
+            },
+            {
+                "question": "Explain the concept of blue-green deployments.",
+                "answerHint": "Provide an in-depth explanation of blue-green deployments."
+            },
+            {
+                "question": "Explain the concept of canary releases.",
+                "answerHint": "Provide an in-depth explanation of canary releases."
+            },
+            {
+                "question": "Explain the concept of feature flags.",
+                "answerHint": "Provide an in-depth explanation of feature flags."
+            },
+            {
+                "question": "Explain the concept of data pipelines.",
+                "answerHint": "Provide an in-depth explanation of data pipelines."
+            },
+            {
+                "question": "Explain the concept of ETL processes.",
+                "answerHint": "Provide an in-depth explanation of ETL processes."
+            },
+            {
+                "question": "Explain the concept of data warehousing.",
+                "answerHint": "Provide an in-depth explanation of data warehousing."
+            },
+            {
+                "question": "Explain the concept of real-time data processing.",
+                "answerHint": "Provide an in-depth explanation of real-time data processing."
+            },
+            {
+                "question": "Explain the concept of big data frameworks.",
+                "answerHint": "Provide an in-depth explanation of big data frameworks."
+            },
+            {
+                "question": "Explain the concept of MapReduce.",
+                "answerHint": "Provide an in-depth explanation of MapReduce."
+            },
+            {
+                "question": "Explain the concept of Hadoop basics.",
+                "answerHint": "Provide an in-depth explanation of Hadoop basics."
+            },
+            {
+                "question": "Explain the concept of Apache Spark.",
+                "answerHint": "Provide an in-depth explanation of Apache Spark."
+            },
+            {
+                "question": "Explain the concept of streaming systems.",
+                "answerHint": "Provide an in-depth explanation of streaming systems."
+            },
+            {
+                "question": "Explain the concept of consensus algorithms.",
+                "answerHint": "Provide an in-depth explanation of consensus algorithms."
+            },
+            {
+                "question": "Explain the concept of Paxos.",
+                "answerHint": "Provide an in-depth explanation of Paxos."
+            },
+            {
+                "question": "Explain the concept of Raft.",
+                "answerHint": "Provide an in-depth explanation of Raft."
+            },
+            {
+                "question": "Explain the concept of network protocols.",
+                "answerHint": "Provide an in-depth explanation of network protocols."
+            },
+            {
+                "question": "Explain the concept of TCP/IP stack.",
+                "answerHint": "Provide an in-depth explanation of TCP/IP stack."
+            },
+            {
+                "question": "Explain the concept of HTTP/2.",
+                "answerHint": "Provide an in-depth explanation of HTTP/2."
+            },
+            {
+                "question": "Explain the concept of QUIC.",
+                "answerHint": "Provide an in-depth explanation of QUIC."
+            },
+            {
+                "question": "Explain the concept of web sockets.",
+                "answerHint": "Provide an in-depth explanation of web sockets."
+            },
+            {
+                "question": "Explain the concept of GraphQL.",
+                "answerHint": "Provide an in-depth explanation of GraphQL."
+            },
+            {
+                "question": "Explain the concept of API security best practices.",
+                "answerHint": "Provide an in-depth explanation of API security best practices."
+            },
+            {
+                "question": "Explain the concept of OAuth2.",
+                "answerHint": "Provide an in-depth explanation of OAuth2."
+            },
+            {
+                "question": "Explain the concept of OpenID Connect.",
+                "answerHint": "Provide an in-depth explanation of OpenID Connect."
+            },
+            {
+                "question": "Explain the concept of JWT.",
+                "answerHint": "Provide an in-depth explanation of JWT."
+            },
+            {
+                "question": "Explain the concept of single sign-on.",
+                "answerHint": "Provide an in-depth explanation of single sign-on."
+            },
+            {
+                "question": "Explain the concept of data encryption techniques.",
+                "answerHint": "Provide an in-depth explanation of data encryption techniques."
+            },
+            {
+                "question": "Explain the concept of SSL/TLS.",
+                "answerHint": "Provide an in-depth explanation of SSL/TLS."
+            },
+            {
+                "question": "Explain the concept of web scraping.",
+                "answerHint": "Provide an in-depth explanation of web scraping."
+            },
+            {
+                "question": "Explain the concept of anti-patterns in software design.",
+                "answerHint": "Provide an in-depth explanation of anti-patterns in software design."
+            },
+            {
+                "question": "Explain the concept of scalability strategies.",
+                "answerHint": "Provide an in-depth explanation of scalability strategies."
+            },
+            {
+                "question": "Explain the concept of database indexing.",
+                "answerHint": "Provide an in-depth explanation of database indexing."
+            },
+            {
+                "question": "Explain the concept of query optimization.",
+                "answerHint": "Provide an in-depth explanation of query optimization."
+            },
+            {
+                "question": "Explain the concept of algorithmic complexity.",
+                "answerHint": "Provide an in-depth explanation of algorithmic complexity."
+            },
+            {
+                "question": "Explain the concept of distributed file systems.",
+                "answerHint": "Provide an in-depth explanation of distributed file systems."
+            },
+            {
+                "question": "Explain the concept of event-driven systems.",
+                "answerHint": "Provide an in-depth explanation of event-driven systems."
+            },
+            {
+                "question": "Explain the concept of lambda architecture.",
+                "answerHint": "Provide an in-depth explanation of lambda architecture."
+            },
+            {
+                "question": "Explain the concept of micro-frontends.",
+                "answerHint": "Provide an in-depth explanation of micro-frontends."
+            },
+            {
+                "question": "Explain the concept of frontend performance optimization.",
+                "answerHint": "Provide an in-depth explanation of frontend performance optimization."
+            },
+            {
+                "question": "Explain the concept of backend performance optimization.",
+                "answerHint": "Provide an in-depth explanation of backend performance optimization."
+            },
+            {
+                "question": "Explain the concept of thread pools.",
+                "answerHint": "Provide an in-depth explanation of thread pools."
+            },
+            {
+                "question": "Explain the concept of asynchronous task scheduling.",
+                "answerHint": "Provide an in-depth explanation of asynchronous task scheduling."
+            },
+            {
+                "question": "Explain the concept of high availability systems.",
+                "answerHint": "Provide an in-depth explanation of high availability systems."
+            },
+            {
+                "question": "Explain the concept of disaster recovery strategies.",
+                "answerHint": "Provide an in-depth explanation of disaster recovery strategies."
+            },
+            {
+                "question": "Explain the concept of data backup strategies.",
+                "answerHint": "Provide an in-depth explanation of data backup strategies."
+            },
+            {
+                "question": "Explain the concept of system reliability engineering.",
+                "answerHint": "Provide an in-depth explanation of system reliability engineering."
+            },
+            {
+                "question": "Explain the concept of deployment pipelines.",
+                "answerHint": "Provide an in-depth explanation of deployment pipelines."
+            },
+            {
+                "question": "Explain the concept of cross-region deployments.",
+                "answerHint": "Provide an in-depth explanation of cross-region deployments."
+            },
+            {
+                "question": "Explain the concept of multi-cloud architectures.",
+                "answerHint": "Provide an in-depth explanation of multi-cloud architectures."
+            },
+            {
+                "question": "Explain the concept of edge case handling.",
+                "answerHint": "Provide an in-depth explanation of edge case handling."
+            },
+            {
+                "question": "Explain the concept of regression testing.",
+                "answerHint": "Provide an in-depth explanation of regression testing."
+            },
+            {
+                "question": "Explain the concept of fuzz testing.",
+                "answerHint": "Provide an in-depth explanation of fuzz testing."
+            }
+        ]
+}

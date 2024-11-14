@@ -1,0 +1,392 @@
+{
+  "intermediate": [
+            {
+                "question": "Can you explain REST APIs?",
+                "answerHint": "Discuss the details of REST APIs with examples."
+            },
+            {
+                "question": "Can you explain SOAP APIs?",
+                "answerHint": "Discuss the details of SOAP APIs with examples."
+            },
+            {
+                "question": "Can you explain OAuth?",
+                "answerHint": "Discuss the details of OAuth with examples."
+            },
+            {
+                "question": "Can you explain Websockets?",
+                "answerHint": "Discuss the details of Websockets with examples."
+            },
+            {
+                "question": "Can you explain database normalization?",
+                "answerHint": "Discuss the details of database normalization with examples."
+            },
+            {
+                "question": "Can you explain SQL joins?",
+                "answerHint": "Discuss the details of SQL joins with examples."
+            },
+            {
+                "question": "Can you explain caching mechanisms?",
+                "answerHint": "Discuss the details of caching mechanisms with examples."
+            },
+            {
+                "question": "Can you explain middleware?",
+                "answerHint": "Discuss the details of middleware with examples."
+            },
+            {
+                "question": "Can you explain event loop in JavaScript?",
+                "answerHint": "Discuss the details of event loop in JavaScript with examples."
+            },
+            {
+                "question": "Can you explain closures?",
+                "answerHint": "Discuss the details of closures with examples."
+            },
+            {
+                "question": "Can you explain promises?",
+                "answerHint": "Discuss the details of promises with examples."
+            },
+            {
+                "question": "Can you explain async/await?",
+                "answerHint": "Discuss the details of async/await with examples."
+            },
+            {
+                "question": "Can you explain error boundaries?",
+                "answerHint": "Discuss the details of error boundaries with examples."
+            },
+            {
+                "question": "Can you explain state management?",
+                "answerHint": "Discuss the details of state management with examples."
+            },
+            {
+                "question": "Can you explain virtual DOM?",
+                "answerHint": "Discuss the details of virtual DOM with examples."
+            },
+            {
+                "question": "Can you explain cross-site scripting (XSS)?",
+                "answerHint": "Discuss the details of cross-site scripting (XSS) with examples."
+            },
+            {
+                "question": "Can you explain SQL injection?",
+                "answerHint": "Discuss the details of SQL injection with examples."
+            },
+            {
+                "question": "Can you explain token-based authentication?",
+                "answerHint": "Discuss the details of token-based authentication with examples."
+            },
+            {
+                "question": "Can you explain role-based access control?",
+                "answerHint": "Discuss the details of role-based access control with examples."
+            },
+            {
+                "question": "Can you explain asynchronous programming?",
+                "answerHint": "Discuss the details of asynchronous programming with examples."
+            },
+            {
+                "question": "Can you explain prototypes in JavaScript?",
+                "answerHint": "Discuss the details of prototypes in JavaScript with examples."
+            },
+            {
+                "question": "Can you explain event delegation?",
+                "answerHint": "Discuss the details of event delegation with examples."
+            },
+            {
+                "question": "Can you explain module bundlers?",
+                "answerHint": "Discuss the details of module bundlers with examples."
+            },
+            {
+                "question": "Can you explain testing pyramids?",
+                "answerHint": "Discuss the details of testing pyramids with examples."
+            },
+            {
+                "question": "Can you explain CI/CD pipelines?",
+                "answerHint": "Discuss the details of CI/CD pipelines with examples."
+            },
+            {
+                "question": "Can you explain linting tools?",
+                "answerHint": "Discuss the details of linting tools with examples."
+            },
+            {
+                "question": "Can you explain monolithic architecture?",
+                "answerHint": "Discuss the details of monolithic architecture with examples."
+            },
+            {
+                "question": "Can you explain microservices architecture?",
+                "answerHint": "Discuss the details of microservices architecture with examples."
+            },
+            {
+                "question": "Can you explain webhooks?",
+                "answerHint": "Discuss the details of webhooks with examples."
+            },
+            {
+                "question": "Can you explain content delivery networks?",
+                "answerHint": "Discuss the details of content delivery networks with examples."
+            },
+            {
+                "question": "Can you explain service workers?",
+                "answerHint": "Discuss the details of service workers with examples."
+            },
+            {
+                "question": "Can you explain push notifications?",
+                "answerHint": "Discuss the details of push notifications with examples."
+            },
+            {
+                "question": "Can you explain lazy loading?",
+                "answerHint": "Discuss the details of lazy loading with examples."
+            },
+            {
+                "question": "Can you explain server-side rendering?",
+                "answerHint": "Discuss the details of server-side rendering with examples."
+            },
+            {
+                "question": "Can you explain client-side rendering?",
+                "answerHint": "Discuss the details of client-side rendering with examples."
+            },
+            {
+                "question": "Can you explain code splitting?",
+                "answerHint": "Discuss the details of code splitting with examples."
+            },
+            {
+                "question": "Can you explain tree shaking?",
+                "answerHint": "Discuss the details of tree shaking with examples."
+            },
+            {
+                "question": "Can you explain custom hooks in React?",
+                "answerHint": "Discuss the details of custom hooks in React with examples."
+            },
+            {
+                "question": "Can you explain Redux?",
+                "answerHint": "Discuss the details of Redux with examples."
+            },
+            {
+                "question": "Can you explain context API in React?",
+                "answerHint": "Discuss the details of context API in React with examples."
+            },
+            {
+                "question": "Can you explain state lifecycle?",
+                "answerHint": "Discuss the details of state lifecycle with examples."
+            },
+            {
+                "question": "Can you explain data immutability?",
+                "answerHint": "Discuss the details of data immutability with examples."
+            },
+            {
+                "question": "Can you explain graph traversal algorithms?",
+                "answerHint": "Discuss the details of graph traversal algorithms with examples."
+            },
+            {
+                "question": "Can you explain binary search trees?",
+                "answerHint": "Discuss the details of binary search trees with examples."
+            },
+            {
+                "question": "Can you explain hash maps?",
+                "answerHint": "Discuss the details of hash maps with examples."
+            },
+            {
+                "question": "Can you explain sorting algorithm efficiency?",
+                "answerHint": "Discuss the details of sorting algorithm efficiency with examples."
+            },
+            {
+                "question": "Can you explain searching algorithms?",
+                "answerHint": "Discuss the details of searching algorithms with examples."
+            },
+            {
+                "question": "Can you explain authentication protocols?",
+                "answerHint": "Discuss the details of authentication protocols with examples."
+            },
+            {
+                "question": "Can you explain web application firewalls?",
+                "answerHint": "Discuss the details of web application firewalls with examples."
+            },
+            {
+                "question": "Can you explain performance bottlenecks?",
+                "answerHint": "Discuss the details of performance bottlenecks with examples."
+            },
+            {
+                "question": "Can you explain debouncing and throttling?",
+                "answerHint": "Discuss the details of debouncing and throttling with examples."
+            },
+            {
+                "question": "Can you explain design patterns like Singleton or Factory?",
+                "answerHint": "Discuss the details of design patterns like Singleton or Factory with examples."
+            },
+            {
+                "question": "Can you explain event-driven architecture?",
+                "answerHint": "Discuss the details of event-driven architecture with examples."
+            },
+            {
+                "question": "Can you explain reactive programming?",
+                "answerHint": "Discuss the details of reactive programming with examples."
+            },
+            {
+                "question": "Can you explain immutable data structures?",
+                "answerHint": "Discuss the details of immutable data structures with examples."
+            },
+            {
+                "question": "Can you explain testing strategies?",
+                "answerHint": "Discuss the details of testing strategies with examples."
+            },
+            {
+                "question": "Can you explain integration tests?",
+                "answerHint": "Discuss the details of integration tests with examples."
+            },
+            {
+                "question": "Can you explain load testing?",
+                "answerHint": "Discuss the details of load testing with examples."
+            },
+            {
+                "question": "Can you explain scalability concepts?",
+                "answerHint": "Discuss the details of scalability concepts with examples."
+            },
+            {
+                "question": "Can you explain designing RESTful services?",
+                "answerHint": "Discuss the details of designing RESTful services with examples."
+            },
+            {
+                "question": "Can you explain error handling in asynchronous code?",
+                "answerHint": "Discuss the details of error handling in asynchronous code with examples."
+            },
+            {
+                "question": "Can you explain callback hell?",
+                "answerHint": "Discuss the details of callback hell with examples."
+            },
+            {
+                "question": "Can you explain high-order components in React?",
+                "answerHint": "Discuss the details of high-order components in React with examples."
+            },
+            {
+                "question": "Can you explain environment configuration?",
+                "answerHint": "Discuss the details of environment configuration with examples."
+            },
+            {
+                "question": "Can you explain continuous integration?",
+                "answerHint": "Discuss the details of continuous integration with examples."
+            },
+            {
+                "question": "Can you explain continuous deployment?",
+                "answerHint": "Discuss the details of continuous deployment with examples."
+            },
+            {
+                "question": "Can you explain package managers?",
+                "answerHint": "Discuss the details of package managers with examples."
+            },
+            {
+                "question": "Can you explain observables in RxJS?",
+                "answerHint": "Discuss the details of observables in RxJS with examples."
+            },
+            {
+                "question": "Can you explain client-server interaction?",
+                "answerHint": "Discuss the details of client-server interaction with examples."
+            },
+            {
+                "question": "Can you explain DOM optimization?",
+                "answerHint": "Discuss the details of DOM optimization with examples."
+            },
+            {
+                "question": "Can you explain progressive web apps?",
+                "answerHint": "Discuss the details of progressive web apps with examples."
+            },
+            {
+                "question": "Can you explain service-oriented architecture?",
+                "answerHint": "Discuss the details of service-oriented architecture with examples."
+            },
+            {
+                "question": "Can you explain dynamic import in JavaScript?",
+                "answerHint": "Discuss the details of dynamic import in JavaScript with examples."
+            },
+            {
+                "question": "Can you explain code coverage?",
+                "answerHint": "Discuss the details of code coverage with examples."
+            },
+            {
+                "question": "Can you explain build automation tools?",
+                "answerHint": "Discuss the details of build automation tools with examples."
+            },
+            {
+                "question": "Can you explain Webpack configurations?",
+                "answerHint": "Discuss the details of Webpack configurations with examples."
+            },
+            {
+                "question": "Can you explain Node.js basics?",
+                "answerHint": "Discuss the details of Node.js basics with examples."
+            },
+            {
+                "question": "Can you explain Express.js?",
+                "answerHint": "Discuss the details of Express.js with examples."
+            },
+            {
+                "question": "Can you explain middleware in Express?",
+                "answerHint": "Discuss the details of middleware in Express with examples."
+            },
+            {
+                "question": "Can you explain API rate limiting?",
+                "answerHint": "Discuss the details of API rate limiting with examples."
+            },
+            {
+                "question": "Can you explain request lifecycle?",
+                "answerHint": "Discuss the details of request lifecycle with examples."
+            },
+            {
+                "question": "Can you explain cross-origin resource sharing (CORS)?",
+                "answerHint": "Discuss the details of cross-origin resource sharing (CORS) with examples."
+            },
+            {
+                "question": "Can you explain HTTP status codes?",
+                "answerHint": "Discuss the details of HTTP status codes with examples."
+            },
+            {
+                "question": "Can you explain REST vs GraphQL?",
+                "answerHint": "Discuss the details of REST vs GraphQL with examples."
+            },
+            {
+                "question": "Can you explain authentication mechanisms?",
+                "answerHint": "Discuss the details of authentication mechanisms with examples."
+            },
+            {
+                "question": "Can you explain basic cryptography concepts?",
+                "answerHint": "Discuss the details of basic cryptography concepts with examples."
+            },
+            {
+                "question": "Can you explain API versioning?",
+                "answerHint": "Discuss the details of API versioning with examples."
+            },
+            {
+                "question": "Can you explain web app security?",
+                "answerHint": "Discuss the details of web app security with examples."
+            },
+            {
+                "question": "Can you explain cross-browser compatibility?",
+                "answerHint": "Discuss the details of cross-browser compatibility with examples."
+            },
+            {
+                "question": "Can you explain basic regular expressions?",
+                "answerHint": "Discuss the details of basic regular expressions with examples."
+            },
+            {
+                "question": "Can you explain software development lifecycle?",
+                "answerHint": "Discuss the details of software development lifecycle with examples."
+            },
+            {
+                "question": "Can you explain stages of debugging?",
+                "answerHint": "Discuss the details of stages of debugging with examples."
+            },
+            {
+                "question": "Can you explain testing frameworks?",
+                "answerHint": "Discuss the details of testing frameworks with examples."
+            },
+            {
+                "question": "Can you explain graph algorithms?",
+                "answerHint": "Discuss the details of graph algorithms with examples."
+            },
+            {
+                "question": "Can you explain middleware chaining?",
+                "answerHint": "Discuss the details of middleware chaining with examples."
+            },
+            {
+                "question": "Can you explain JSON Web Tokens?",
+                "answerHint": "Discuss the details of JSON Web Tokens with examples."
+            },
+            {
+                "question": "Can you explain versioning strategies?",
+                "answerHint": "Discuss the details of versioning strategies with examples."
+            }
+        ]
+}

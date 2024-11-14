@@ -1,0 +1,400 @@
+{
+  "beginner": [
+            {
+                "question": "What is the purpose of a variable in programming?",
+                "answerHint": "Explain the role of a variable in code."
+            },
+            {
+                "question": "What is the purpose of a loop in programming?",
+                "answerHint": "Explain the role of a loop in code."
+            },
+            {
+                "question": "What is the purpose of a function in programming?",
+                "answerHint": "Explain the role of a function in code."
+            },
+            {
+                "question": "What is the purpose of an array in programming?",
+                "answerHint": "Explain the role of an array in code."
+            },
+            {
+                "question": "What is the purpose of an object in programming?",
+                "answerHint": "Explain the role of an object in code."
+            },
+            {
+                "question": "What is the purpose of conditional statements in programming?",
+                "answerHint": "Explain the role of conditional statements in code."
+            },
+            {
+                "question": "What is the purpose of a class in programming?",
+                "answerHint": "Explain the role of a class in code."
+            },
+            {
+                "question": "What is the purpose of a module in programming?",
+                "answerHint": "Explain the role of a module in code."
+            },
+            {
+                "question": "What is the purpose of syntax in programming?",
+                "answerHint": "Explain the role of syntax in code."
+            },
+            {
+                "question": "What is the purpose of a compiler in programming?",
+                "answerHint": "Explain the role of a compiler in code."
+            },
+            {
+                "question": "What is the purpose of an IDE in programming?",
+                "answerHint": "Explain the role of an IDE in code."
+            },
+            {
+                "question": "What is the purpose of constants in programming?",
+                "answerHint": "Explain the role of constants in code."
+            },
+            {
+                "question": "What is the purpose of a file system in programming?",
+                "answerHint": "Explain the role of a file system in code."
+            },
+            {
+                "question": "What is the purpose of a debugger in programming?",
+                "answerHint": "Explain the role of a debugger in code."
+            },
+            {
+                "question": "What is the purpose of data types in programming?",
+                "answerHint": "Explain the role of data types in code."
+            },
+            {
+                "question": "What is the purpose of operators in programming?",
+                "answerHint": "Explain the role of operators in code."
+            },
+            {
+                "question": "What is the purpose of recursion in programming?",
+                "answerHint": "Explain the role of recursion in code."
+            },
+            {
+                "question": "What is the purpose of event handling in programming?",
+                "answerHint": "Explain the role of event handling in code."
+            },
+            {
+                "question": "What is the purpose of API calls in programming?",
+                "answerHint": "Explain the role of API calls in code."
+            },
+            {
+                "question": "What is the purpose of input/output in programming?",
+                "answerHint": "Explain the role of input/output in code."
+            },
+            {
+                "question": "What is the purpose of a library in programming?",
+                "answerHint": "Explain the role of a library in code."
+            },
+            {
+                "question": "What is the purpose of a framework in programming?",
+                "answerHint": "Explain the role of a framework in code."
+            },
+            {
+                "question": "What is the purpose of source control in programming?",
+                "answerHint": "Explain the role of source control in code."
+            },
+            {
+                "question": "What is the purpose of an algorithm in programming?",
+                "answerHint": "Explain the role of an algorithm in code."
+            },
+            {
+                "question": "What is the purpose of error handling in programming?",
+                "answerHint": "Explain the role of error handling in code."
+            },
+            {
+                "question": "What is the purpose of a command line in programming?",
+                "answerHint": "Explain the role of a command line in code."
+            },
+            {
+                "question": "What is the purpose of comments in programming?",
+                "answerHint": "Explain the role of comments in code."
+            },
+            {
+                "question": "What is the purpose of pseudocode in programming?",
+                "answerHint": "Explain the role of pseudocode in code."
+            },
+            {
+                "question": "What is the purpose of encapsulation in programming?",
+                "answerHint": "Explain the role of encapsulation in code."
+            },
+            {
+                "question": "What is the purpose of inheritance in programming?",
+                "answerHint": "Explain the role of inheritance in code."
+            },
+            {
+                "question": "What is the purpose of polymorphism in programming?",
+                "answerHint": "Explain the role of polymorphism in code."
+            },
+            {
+                "question": "What is the purpose of abstraction in programming?",
+                "answerHint": "Explain the role of abstraction in code."
+            },
+            {
+                "question": "What is the purpose of memory management in programming?",
+                "answerHint": "Explain the role of memory management in code."
+            },
+            {
+                "question": "What is the purpose of code optimization in programming?",
+                "answerHint": "Explain the role of code optimization in code."
+            },
+            {
+                "question": "What is the purpose of compilation process in programming?",
+                "answerHint": "Explain the role of compilation process in code."
+            },
+            {
+                "question": "What is the purpose of runtime errors in programming?",
+                "answerHint": "Explain the role of runtime errors in code."
+            },
+            {
+                "question": "What is the purpose of logic errors in programming?",
+                "answerHint": "Explain the role of logic errors in code."
+            },
+            {
+                "question": "What is the purpose of data structures in programming?",
+                "answerHint": "Explain the role of data structures in code."
+            },
+            {
+                "question": "What is the purpose of sorting algorithms in programming?",
+                "answerHint": "Explain the role of sorting algorithms in code."
+            },
+            {
+                "question": "What is the purpose of searching algorithms in programming?",
+                "answerHint": "Explain the role of searching algorithms in code."
+            },
+            {
+                "question": "What is the purpose of network requests in programming?",
+                "answerHint": "Explain the role of network requests in code."
+            },
+            {
+                "question": "What is the purpose of authentication in programming?",
+                "answerHint": "Explain the role of authentication in code."
+            },
+            {
+                "question": "What is the purpose of authorization in programming?",
+                "answerHint": "Explain the role of authorization in code."
+            },
+            {
+                "question": "What is the purpose of responsive design in programming?",
+                "answerHint": "Explain the role of responsive design in code."
+            },
+            {
+                "question": "What is the purpose of unit testing in programming?",
+                "answerHint": "Explain the role of unit testing in code."
+            },
+            {
+                "question": "What is the purpose of integration testing in programming?",
+                "answerHint": "Explain the role of integration testing in code."
+            },
+            {
+                "question": "What is the purpose of version control systems in programming?",
+                "answerHint": "Explain the role of version control systems in code."
+            },
+            {
+                "question": "What is the purpose of cloud computing in programming?",
+                "answerHint": "Explain the role of cloud computing in code."
+            },
+            {
+                "question": "What is the purpose of databases in programming?",
+                "answerHint": "Explain the role of databases in code."
+            },
+            {
+                "question": "What is the purpose of debugging tools in programming?",
+                "answerHint": "Explain the role of debugging tools in code."
+            },
+            {
+                "question": "What is the purpose of performance monitoring in programming?",
+                "answerHint": "Explain the role of performance monitoring in code."
+            },
+            {
+                "question": "What is the purpose of security measures in programming?",
+                "answerHint": "Explain the role of security measures in code."
+            },
+            {
+                "question": "What is the purpose of object-oriented programming in programming?",
+                "answerHint": "Explain the role of object-oriented programming in code."
+            },
+            {
+                "question": "What is the purpose of functional programming in programming?",
+                "answerHint": "Explain the role of functional programming in code."
+            },
+            {
+                "question": "What is the purpose of variables in loops in programming?",
+                "answerHint": "Explain the role of variables in loops in code."
+            },
+            {
+                "question": "What is the purpose of libraries vs frameworks in programming?",
+                "answerHint": "Explain the role of libraries vs frameworks in code."
+            },
+            {
+                "question": "What is the purpose of deployment processes in programming?",
+                "answerHint": "Explain the role of deployment processes in code."
+            },
+            {
+                "question": "What is the purpose of static vs dynamic typing in programming?",
+                "answerHint": "Explain the role of static vs dynamic typing in code."
+            },
+            {
+                "question": "What is the purpose of code editors in programming?",
+                "answerHint": "Explain the role of code editors in code."
+            },
+            {
+                "question": "What is the purpose of markup languages in programming?",
+                "answerHint": "Explain the role of markup languages in code."
+            },
+            {
+                "question": "What is the purpose of client-server model in programming?",
+                "answerHint": "Explain the role of client-server model in code."
+            },
+            {
+                "question": "What is the purpose of testing frameworks in programming?",
+                "answerHint": "Explain the role of testing frameworks in code."
+            },
+            {
+                "question": "What is the purpose of code refactoring in programming?",
+                "answerHint": "Explain the role of code refactoring in code."
+            },
+            {
+                "question": "What is the purpose of data validation in programming?",
+                "answerHint": "Explain the role of data validation in code."
+            },
+            {
+                "question": "What is the purpose of REST API basics in programming?",
+                "answerHint": "Explain the role of REST API basics in code."
+            },
+            {
+                "question": "What is the purpose of data fetching in programming?",
+                "answerHint": "Explain the role of data fetching in code."
+            },
+            {
+                "question": "What is the purpose of array operations in programming?",
+                "answerHint": "Explain the role of array operations in code."
+            },
+            {
+                "question": "What is the purpose of object methods in programming?",
+                "answerHint": "Explain the role of object methods in code."
+            },
+            {
+                "question": "What is the purpose of file handling in programming?",
+                "answerHint": "Explain the role of file handling in code."
+            },
+            {
+                "question": "What is the purpose of environment variables in programming?",
+                "answerHint": "Explain the role of environment variables in code."
+            },
+            {
+                "question": "What is the purpose of types of loops in programming?",
+                "answerHint": "Explain the role of types of loops in code."
+            },
+            {
+                "question": "What is the purpose of string manipulation in programming?",
+                "answerHint": "Explain the role of string manipulation in code."
+            },
+            {
+                "question": "What is the purpose of common IDE shortcuts in programming?",
+                "answerHint": "Explain the role of common IDE shortcuts in code."
+            },
+            {
+                "question": "What is the purpose of console logging in programming?",
+                "answerHint": "Explain the role of console logging in code."
+            },
+            {
+                "question": "What is the purpose of DOM manipulation in programming?",
+                "answerHint": "Explain the role of DOM manipulation in code."
+            },
+            {
+                "question": "What is the purpose of HTML structure in programming?",
+                "answerHint": "Explain the role of HTML structure in code."
+            },
+            {
+                "question": "What is the purpose of CSS basics in programming?",
+                "answerHint": "Explain the role of CSS basics in code."
+            },
+            {
+                "question": "What is the purpose of JavaScript basics in programming?",
+                "answerHint": "Explain the role of JavaScript basics in code."
+            },
+            {
+                "question": "What is the purpose of Git basics in programming?",
+                "answerHint": "Explain the role of Git basics in code."
+            },
+            {
+                "question": "What is the purpose of debugging basics in programming?",
+                "answerHint": "Explain the role of debugging basics in code."
+            },
+            {
+                "question": "What is the purpose of algorithm efficiency in programming?",
+                "answerHint": "Explain the role of algorithm efficiency in code."
+            },
+            {
+                "question": "What is the purpose of problem-solving strategies in programming?",
+                "answerHint": "Explain the role of problem-solving strategies in code."
+            },
+            {
+                "question": "What is the purpose of integrating APIs in programming?",
+                "answerHint": "Explain the role of integrating APIs in code."
+            },
+            {
+                "question": "What is the purpose of command-line tools in programming?",
+                "answerHint": "Explain the role of command-line tools in code."
+            },
+            {
+                "question": "What is the purpose of JSON structure in programming?",
+                "answerHint": "Explain the role of JSON structure in code."
+            },
+            {
+                "question": "What is the purpose of data binding in programming?",
+                "answerHint": "Explain the role of data binding in code."
+            },
+            {
+                "question": "What is the purpose of responsive UI principles in programming?",
+                "answerHint": "Explain the role of responsive UI principles in code."
+            },
+            {
+                "question": "What is the purpose of static websites in programming?",
+                "answerHint": "Explain the role of static websites in code."
+            },
+            {
+                "question": "What is the purpose of dynamic websites in programming?",
+                "answerHint": "Explain the role of dynamic websites in code."
+            },
+            {
+                "question": "What is the purpose of event-driven programming in programming?",
+                "answerHint": "Explain the role of event-driven programming in code."
+            },
+            {
+                "question": "What is the purpose of exception handling basics in programming?",
+                "answerHint": "Explain the role of exception handling basics in code."
+            },
+            {
+                "question": "What is the purpose of regular expressions basics in programming?",
+                "answerHint": "Explain the role of regular expressions basics in code."
+            },
+            {
+                "question": "What is the purpose of basic code architecture in programming?",
+                "answerHint": "Explain the role of basic code architecture in code."
+            },
+            {
+                "question": "What is the purpose of key differences in paradigms in programming?",
+                "answerHint": "Explain the role of key differences in paradigms in code."
+            },
+            {
+                "question": "What is the purpose of documentation importance in programming?",
+                "answerHint": "Explain the role of documentation importance in code."
+            },
+            {
+                "question": "What is the purpose of DRY principle in programming?",
+                "answerHint": "Explain the role of DRY principle in code."
+            },
+            {
+                "question": "What is the purpose of YAGNI principle in programming?",
+                "answerHint": "Explain the role of YAGNI principle in code."
+            },
+            {
+                "question": "What is the purpose of basic software testing in programming?",
+                "answerHint": "Explain the role of basic software testing in code."
+            },
+            {
+                "question": "What is the purpose of simple deployment techniques in programming?",
+                "answerHint": "Explain the role of simple deployment techniques in code."
+            }
+        ]
+}

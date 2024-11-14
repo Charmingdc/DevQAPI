@@ -1,0 +1,1170 @@
+{
+    "interviewQuestions": {
+        "beginner": [
+            {
+                "question": "What is the purpose of a variable in programming?",
+                "answerHint": "Explain the role of a variable in code."
+            },
+            {
+                "question": "What is the purpose of a loop in programming?",
+                "answerHint": "Explain the role of a loop in code."
+            },
+            {
+                "question": "What is the purpose of a function in programming?",
+                "answerHint": "Explain the role of a function in code."
+            },
+            {
+                "question": "What is the purpose of an array in programming?",
+                "answerHint": "Explain the role of an array in code."
+            },
+            {
+                "question": "What is the purpose of an object in programming?",
+                "answerHint": "Explain the role of an object in code."
+            },
+            {
+                "question": "What is the purpose of conditional statements in programming?",
+                "answerHint": "Explain the role of conditional statements in code."
+            },
+            {
+                "question": "What is the purpose of a class in programming?",
+                "answerHint": "Explain the role of a class in code."
+            },
+            {
+                "question": "What is the purpose of a module in programming?",
+                "answerHint": "Explain the role of a module in code."
+            },
+            {
+                "question": "What is the purpose of syntax in programming?",
+                "answerHint": "Explain the role of syntax in code."
+            },
+            {
+                "question": "What is the purpose of a compiler in programming?",
+                "answerHint": "Explain the role of a compiler in code."
+            },
+            {
+                "question": "What is the purpose of an IDE in programming?",
+                "answerHint": "Explain the role of an IDE in code."
+            },
+            {
+                "question": "What is the purpose of constants in programming?",
+                "answerHint": "Explain the role of constants in code."
+            },
+            {
+                "question": "What is the purpose of a file system in programming?",
+                "answerHint": "Explain the role of a file system in code."
+            },
+            {
+                "question": "What is the purpose of a debugger in programming?",
+                "answerHint": "Explain the role of a debugger in code."
+            },
+            {
+                "question": "What is the purpose of data types in programming?",
+                "answerHint": "Explain the role of data types in code."
+            },
+            {
+                "question": "What is the purpose of operators in programming?",
+                "answerHint": "Explain the role of operators in code."
+            },
+            {
+                "question": "What is the purpose of recursion in programming?",
+                "answerHint": "Explain the role of recursion in code."
+            },
+            {
+                "question": "What is the purpose of event handling in programming?",
+                "answerHint": "Explain the role of event handling in code."
+            },
+            {
+                "question": "What is the purpose of API calls in programming?",
+                "answerHint": "Explain the role of API calls in code."
+            },
+            {
+                "question": "What is the purpose of input/output in programming?",
+                "answerHint": "Explain the role of input/output in code."
+            },
+            {
+                "question": "What is the purpose of a library in programming?",
+                "answerHint": "Explain the role of a library in code."
+            },
+            {
+                "question": "What is the purpose of a framework in programming?",
+                "answerHint": "Explain the role of a framework in code."
+            },
+            {
+                "question": "What is the purpose of source control in programming?",
+                "answerHint": "Explain the role of source control in code."
+            },
+            {
+                "question": "What is the purpose of an algorithm in programming?",
+                "answerHint": "Explain the role of an algorithm in code."
+            },
+            {
+                "question": "What is the purpose of error handling in programming?",
+                "answerHint": "Explain the role of error handling in code."
+            },
+            {
+                "question": "What is the purpose of a command line in programming?",
+                "answerHint": "Explain the role of a command line in code."
+            },
+            {
+                "question": "What is the purpose of comments in programming?",
+                "answerHint": "Explain the role of comments in code."
+            },
+            {
+                "question": "What is the purpose of pseudocode in programming?",
+                "answerHint": "Explain the role of pseudocode in code."
+            },
+            {
+                "question": "What is the purpose of encapsulation in programming?",
+                "answerHint": "Explain the role of encapsulation in code."
+            },
+            {
+                "question": "What is the purpose of inheritance in programming?",
+                "answerHint": "Explain the role of inheritance in code."
+            },
+            {
+                "question": "What is the purpose of polymorphism in programming?",
+                "answerHint": "Explain the role of polymorphism in code."
+            },
+            {
+                "question": "What is the purpose of abstraction in programming?",
+                "answerHint": "Explain the role of abstraction in code."
+            },
+            {
+                "question": "What is the purpose of memory management in programming?",
+                "answerHint": "Explain the role of memory management in code."
+            },
+            {
+                "question": "What is the purpose of code optimization in programming?",
+                "answerHint": "Explain the role of code optimization in code."
+            },
+            {
+                "question": "What is the purpose of compilation process in programming?",
+                "answerHint": "Explain the role of compilation process in code."
+            },
+            {
+                "question": "What is the purpose of runtime errors in programming?",
+                "answerHint": "Explain the role of runtime errors in code."
+            },
+            {
+                "question": "What is the purpose of logic errors in programming?",
+                "answerHint": "Explain the role of logic errors in code."
+            },
+            {
+                "question": "What is the purpose of data structures in programming?",
+                "answerHint": "Explain the role of data structures in code."
+            },
+            {
+                "question": "What is the purpose of sorting algorithms in programming?",
+                "answerHint": "Explain the role of sorting algorithms in code."
+            },
+            {
+                "question": "What is the purpose of searching algorithms in programming?",
+                "answerHint": "Explain the role of searching algorithms in code."
+            },
+            {
+                "question": "What is the purpose of network requests in programming?",
+                "answerHint": "Explain the role of network requests in code."
+            },
+            {
+                "question": "What is the purpose of authentication in programming?",
+                "answerHint": "Explain the role of authentication in code."
+            },
+            {
+                "question": "What is the purpose of authorization in programming?",
+                "answerHint": "Explain the role of authorization in code."
+            },
+            {
+                "question": "What is the purpose of responsive design in programming?",
+                "answerHint": "Explain the role of responsive design in code."
+            },
+            {
+                "question": "What is the purpose of unit testing in programming?",
+                "answerHint": "Explain the role of unit testing in code."
+            },
+            {
+                "question": "What is the purpose of integration testing in programming?",
+                "answerHint": "Explain the role of integration testing in code."
+            },
+            {
+                "question": "What is the purpose of version control systems in programming?",
+                "answerHint": "Explain the role of version control systems in code."
+            },
+            {
+                "question": "What is the purpose of cloud computing in programming?",
+                "answerHint": "Explain the role of cloud computing in code."
+            },
+            {
+                "question": "What is the purpose of databases in programming?",
+                "answerHint": "Explain the role of databases in code."
+            },
+            {
+                "question": "What is the purpose of debugging tools in programming?",
+                "answerHint": "Explain the role of debugging tools in code."
+            },
+            {
+                "question": "What is the purpose of performance monitoring in programming?",
+                "answerHint": "Explain the role of performance monitoring in code."
+            },
+            {
+                "question": "What is the purpose of security measures in programming?",
+                "answerHint": "Explain the role of security measures in code."
+            },
+            {
+                "question": "What is the purpose of object-oriented programming in programming?",
+                "answerHint": "Explain the role of object-oriented programming in code."
+            },
+            {
+                "question": "What is the purpose of functional programming in programming?",
+                "answerHint": "Explain the role of functional programming in code."
+            },
+            {
+                "question": "What is the purpose of variables in loops in programming?",
+                "answerHint": "Explain the role of variables in loops in code."
+            },
+            {
+                "question": "What is the purpose of libraries vs frameworks in programming?",
+                "answerHint": "Explain the role of libraries vs frameworks in code."
+            },
+            {
+                "question": "What is the purpose of deployment processes in programming?",
+                "answerHint": "Explain the role of deployment processes in code."
+            },
+            {
+                "question": "What is the purpose of static vs dynamic typing in programming?",
+                "answerHint": "Explain the role of static vs dynamic typing in code."
+            },
+            {
+                "question": "What is the purpose of code editors in programming?",
+                "answerHint": "Explain the role of code editors in code."
+            },
+            {
+                "question": "What is the purpose of markup languages in programming?",
+                "answerHint": "Explain the role of markup languages in code."
+            },
+            {
+                "question": "What is the purpose of client-server model in programming?",
+                "answerHint": "Explain the role of client-server model in code."
+            },
+            {
+                "question": "What is the purpose of testing frameworks in programming?",
+                "answerHint": "Explain the role of testing frameworks in code."
+            },
+            {
+                "question": "What is the purpose of code refactoring in programming?",
+                "answerHint": "Explain the role of code refactoring in code."
+            },
+            {
+                "question": "What is the purpose of data validation in programming?",
+                "answerHint": "Explain the role of data validation in code."
+            },
+            {
+                "question": "What is the purpose of REST API basics in programming?",
+                "answerHint": "Explain the role of REST API basics in code."
+            },
+            {
+                "question": "What is the purpose of data fetching in programming?",
+                "answerHint": "Explain the role of data fetching in code."
+            },
+            {
+                "question": "What is the purpose of array operations in programming?",
+                "answerHint": "Explain the role of array operations in code."
+            },
+            {
+                "question": "What is the purpose of object methods in programming?",
+                "answerHint": "Explain the role of object methods in code."
+            },
+            {
+                "question": "What is the purpose of file handling in programming?",
+                "answerHint": "Explain the role of file handling in code."
+            },
+            {
+                "question": "What is the purpose of environment variables in programming?",
+                "answerHint": "Explain the role of environment variables in code."
+            },
+            {
+                "question": "What is the purpose of types of loops in programming?",
+                "answerHint": "Explain the role of types of loops in code."
+            },
+            {
+                "question": "What is the purpose of string manipulation in programming?",
+                "answerHint": "Explain the role of string manipulation in code."
+            },
+            {
+                "question": "What is the purpose of common IDE shortcuts in programming?",
+                "answerHint": "Explain the role of common IDE shortcuts in code."
+            },
+            {
+                "question": "What is the purpose of console logging in programming?",
+                "answerHint": "Explain the role of console logging in code."
+            },
+            {
+                "question": "What is the purpose of DOM manipulation in programming?",
+                "answerHint": "Explain the role of DOM manipulation in code."
+            },
+            {
+                "question": "What is the purpose of HTML structure in programming?",
+                "answerHint": "Explain the role of HTML structure in code."
+            },
+            {
+                "question": "What is the purpose of CSS basics in programming?",
+                "answerHint": "Explain the role of CSS basics in code."
+            },
+            {
+                "question": "What is the purpose of JavaScript basics in programming?",
+                "answerHint": "Explain the role of JavaScript basics in code."
+            },
+            {
+                "question": "What is the purpose of Git basics in programming?",
+                "answerHint": "Explain the role of Git basics in code."
+            },
+            {
+                "question": "What is the purpose of debugging basics in programming?",
+                "answerHint": "Explain the role of debugging basics in code."
+            },
+            {
+                "question": "What is the purpose of algorithm efficiency in programming?",
+                "answerHint": "Explain the role of algorithm efficiency in code."
+            },
+            {
+                "question": "What is the purpose of problem-solving strategies in programming?",
+                "answerHint": "Explain the role of problem-solving strategies in code."
+            },
+            {
+                "question": "What is the purpose of integrating APIs in programming?",
+                "answerHint": "Explain the role of integrating APIs in code."
+            },
+            {
+                "question": "What is the purpose of command-line tools in programming?",
+                "answerHint": "Explain the role of command-line tools in code."
+            },
+            {
+                "question": "What is the purpose of JSON structure in programming?",
+                "answerHint": "Explain the role of JSON structure in code."
+            },
+            {
+                "question": "What is the purpose of data binding in programming?",
+                "answerHint": "Explain the role of data binding in code."
+            },
+            {
+                "question": "What is the purpose of responsive UI principles in programming?",
+                "answerHint": "Explain the role of responsive UI principles in code."
+            },
+            {
+                "question": "What is the purpose of static websites in programming?",
+                "answerHint": "Explain the role of static websites in code."
+            },
+            {
+                "question": "What is the purpose of dynamic websites in programming?",
+                "answerHint": "Explain the role of dynamic websites in code."
+            },
+            {
+                "question": "What is the purpose of event-driven programming in programming?",
+                "answerHint": "Explain the role of event-driven programming in code."
+            },
+            {
+                "question": "What is the purpose of exception handling basics in programming?",
+                "answerHint": "Explain the role of exception handling basics in code."
+            },
+            {
+                "question": "What is the purpose of regular expressions basics in programming?",
+                "answerHint": "Explain the role of regular expressions basics in code."
+            },
+            {
+                "question": "What is the purpose of basic code architecture in programming?",
+                "answerHint": "Explain the role of basic code architecture in code."
+            },
+            {
+                "question": "What is the purpose of key differences in paradigms in programming?",
+                "answerHint": "Explain the role of key differences in paradigms in code."
+            },
+            {
+                "question": "What is the purpose of documentation importance in programming?",
+                "answerHint": "Explain the role of documentation importance in code."
+            },
+            {
+                "question": "What is the purpose of DRY principle in programming?",
+                "answerHint": "Explain the role of DRY principle in code."
+            },
+            {
+                "question": "What is the purpose of YAGNI principle in programming?",
+                "answerHint": "Explain the role of YAGNI principle in code."
+            },
+            {
+                "question": "What is the purpose of basic software testing in programming?",
+                "answerHint": "Explain the role of basic software testing in code."
+            },
+            {
+                "question": "What is the purpose of simple deployment techniques in programming?",
+                "answerHint": "Explain the role of simple deployment techniques in code."
+            }
+        ],
+        "intermediate": [
+            {
+                "question": "Can you explain REST APIs?",
+                "answerHint": "Discuss the details of REST APIs with examples."
+            },
+            {
+                "question": "Can you explain SOAP APIs?",
+                "answerHint": "Discuss the details of SOAP APIs with examples."
+            },
+            {
+                "question": "Can you explain OAuth?",
+                "answerHint": "Discuss the details of OAuth with examples."
+            },
+            {
+                "question": "Can you explain Websockets?",
+                "answerHint": "Discuss the details of Websockets with examples."
+            },
+            {
+                "question": "Can you explain database normalization?",
+                "answerHint": "Discuss the details of database normalization with examples."
+            },
+            {
+                "question": "Can you explain SQL joins?",
+                "answerHint": "Discuss the details of SQL joins with examples."
+            },
+            {
+                "question": "Can you explain caching mechanisms?",
+                "answerHint": "Discuss the details of caching mechanisms with examples."
+            },
+            {
+                "question": "Can you explain middleware?",
+                "answerHint": "Discuss the details of middleware with examples."
+            },
+            {
+                "question": "Can you explain event loop in JavaScript?",
+                "answerHint": "Discuss the details of event loop in JavaScript with examples."
+            },
+            {
+                "question": "Can you explain closures?",
+                "answerHint": "Discuss the details of closures with examples."
+            },
+            {
+                "question": "Can you explain promises?",
+                "answerHint": "Discuss the details of promises with examples."
+            },
+            {
+                "question": "Can you explain async/await?",
+                "answerHint": "Discuss the details of async/await with examples."
+            },
+            {
+                "question": "Can you explain error boundaries?",
+                "answerHint": "Discuss the details of error boundaries with examples."
+            },
+            {
+                "question": "Can you explain state management?",
+                "answerHint": "Discuss the details of state management with examples."
+            },
+            {
+                "question": "Can you explain virtual DOM?",
+                "answerHint": "Discuss the details of virtual DOM with examples."
+            },
+            {
+                "question": "Can you explain cross-site scripting (XSS)?",
+                "answerHint": "Discuss the details of cross-site scripting (XSS) with examples."
+            },
+            {
+                "question": "Can you explain SQL injection?",
+                "answerHint": "Discuss the details of SQL injection with examples."
+            },
+            {
+                "question": "Can you explain token-based authentication?",
+                "answerHint": "Discuss the details of token-based authentication with examples."
+            },
+            {
+                "question": "Can you explain role-based access control?",
+                "answerHint": "Discuss the details of role-based access control with examples."
+            },
+            {
+                "question": "Can you explain asynchronous programming?",
+                "answerHint": "Discuss the details of asynchronous programming with examples."
+            },
+            {
+                "question": "Can you explain prototypes in JavaScript?",
+                "answerHint": "Discuss the details of prototypes in JavaScript with examples."
+            },
+            {
+                "question": "Can you explain event delegation?",
+                "answerHint": "Discuss the details of event delegation with examples."
+            },
+            {
+                "question": "Can you explain module bundlers?",
+                "answerHint": "Discuss the details of module bundlers with examples."
+            },
+            {
+                "question": "Can you explain testing pyramids?",
+                "answerHint": "Discuss the details of testing pyramids with examples."
+            },
+            {
+                "question": "Can you explain CI/CD pipelines?",
+                "answerHint": "Discuss the details of CI/CD pipelines with examples."
+            },
+            {
+                "question": "Can you explain linting tools?",
+                "answerHint": "Discuss the details of linting tools with examples."
+            },
+            {
+                "question": "Can you explain monolithic architecture?",
+                "answerHint": "Discuss the details of monolithic architecture with examples."
+            },
+            {
+                "question": "Can you explain microservices architecture?",
+                "answerHint": "Discuss the details of microservices architecture with examples."
+            },
+            {
+                "question": "Can you explain webhooks?",
+                "answerHint": "Discuss the details of webhooks with examples."
+            },
+            {
+                "question": "Can you explain content delivery networks?",
+                "answerHint": "Discuss the details of content delivery networks with examples."
+            },
+            {
+                "question": "Can you explain service workers?",
+                "answerHint": "Discuss the details of service workers with examples."
+            },
+            {
+                "question": "Can you explain push notifications?",
+                "answerHint": "Discuss the details of push notifications with examples."
+            },
+            {
+                "question": "Can you explain lazy loading?",
+                "answerHint": "Discuss the details of lazy loading with examples."
+            },
+            {
+                "question": "Can you explain server-side rendering?",
+                "answerHint": "Discuss the details of server-side rendering with examples."
+            },
+            {
+                "question": "Can you explain client-side rendering?",
+                "answerHint": "Discuss the details of client-side rendering with examples."
+            },
+            {
+                "question": "Can you explain code splitting?",
+                "answerHint": "Discuss the details of code splitting with examples."
+            },
+            {
+                "question": "Can you explain tree shaking?",
+                "answerHint": "Discuss the details of tree shaking with examples."
+            },
+            {
+                "question": "Can you explain custom hooks in React?",
+                "answerHint": "Discuss the details of custom hooks in React with examples."
+            },
+            {
+                "question": "Can you explain Redux?",
+                "answerHint": "Discuss the details of Redux with examples."
+            },
+            {
+                "question": "Can you explain context API in React?",
+                "answerHint": "Discuss the details of context API in React with examples."
+            },
+            {
+                "question": "Can you explain state lifecycle?",
+                "answerHint": "Discuss the details of state lifecycle with examples."
+            },
+            {
+                "question": "Can you explain data immutability?",
+                "answerHint": "Discuss the details of data immutability with examples."
+            },
+            {
+                "question": "Can you explain graph traversal algorithms?",
+                "answerHint": "Discuss the details of graph traversal algorithms with examples."
+            },
+            {
+                "question": "Can you explain binary search trees?",
+                "answerHint": "Discuss the details of binary search trees with examples."
+            },
+            {
+                "question": "Can you explain hash maps?",
+                "answerHint": "Discuss the details of hash maps with examples."
+            },
+            {
+                "question": "Can you explain sorting algorithm efficiency?",
+                "answerHint": "Discuss the details of sorting algorithm efficiency with examples."
+            },
+            {
+                "question": "Can you explain searching algorithms?",
+                "answerHint": "Discuss the details of searching algorithms with examples."
+            },
+            {
+                "question": "Can you explain authentication protocols?",
+                "answerHint": "Discuss the details of authentication protocols with examples."
+            },
+            {
+                "question": "Can you explain web application firewalls?",
+                "answerHint": "Discuss the details of web application firewalls with examples."
+            },
+            {
+                "question": "Can you explain performance bottlenecks?",
+                "answerHint": "Discuss the details of performance bottlenecks with examples."
+            },
+            {
+                "question": "Can you explain debouncing and throttling?",
+                "answerHint": "Discuss the details of debouncing and throttling with examples."
+            },
+            {
+                "question": "Can you explain design patterns like Singleton or Factory?",
+                "answerHint": "Discuss the details of design patterns like Singleton or Factory with examples."
+            },
+            {
+                "question": "Can you explain event-driven architecture?",
+                "answerHint": "Discuss the details of event-driven architecture with examples."
+            },
+            {
+                "question": "Can you explain reactive programming?",
+                "answerHint": "Discuss the details of reactive programming with examples."
+            },
+            {
+                "question": "Can you explain immutable data structures?",
+                "answerHint": "Discuss the details of immutable data structures with examples."
+            },
+            {
+                "question": "Can you explain testing strategies?",
+                "answerHint": "Discuss the details of testing strategies with examples."
+            },
+            {
+                "question": "Can you explain integration tests?",
+                "answerHint": "Discuss the details of integration tests with examples."
+            },
+            {
+                "question": "Can you explain load testing?",
+                "answerHint": "Discuss the details of load testing with examples."
+            },
+            {
+                "question": "Can you explain scalability concepts?",
+                "answerHint": "Discuss the details of scalability concepts with examples."
+            },
+            {
+                "question": "Can you explain designing RESTful services?",
+                "answerHint": "Discuss the details of designing RESTful services with examples."
+            },
+            {
+                "question": "Can you explain error handling in asynchronous code?",
+                "answerHint": "Discuss the details of error handling in asynchronous code with examples."
+            },
+            {
+                "question": "Can you explain callback hell?",
+                "answerHint": "Discuss the details of callback hell with examples."
+            },
+            {
+                "question": "Can you explain high-order components in React?",
+                "answerHint": "Discuss the details of high-order components in React with examples."
+            },
+            {
+                "question": "Can you explain environment configuration?",
+                "answerHint": "Discuss the details of environment configuration with examples."
+            },
+            {
+                "question": "Can you explain continuous integration?",
+                "answerHint": "Discuss the details of continuous integration with examples."
+            },
+            {
+                "question": "Can you explain continuous deployment?",
+                "answerHint": "Discuss the details of continuous deployment with examples."
+            },
+            {
+                "question": "Can you explain package managers?",
+                "answerHint": "Discuss the details of package managers with examples."
+            },
+            {
+                "question": "Can you explain observables in RxJS?",
+                "answerHint": "Discuss the details of observables in RxJS with examples."
+            },
+            {
+                "question": "Can you explain client-server interaction?",
+                "answerHint": "Discuss the details of client-server interaction with examples."
+            },
+            {
+                "question": "Can you explain DOM optimization?",
+                "answerHint": "Discuss the details of DOM optimization with examples."
+            },
+            {
+                "question": "Can you explain progressive web apps?",
+                "answerHint": "Discuss the details of progressive web apps with examples."
+            },
+            {
+                "question": "Can you explain service-oriented architecture?",
+                "answerHint": "Discuss the details of service-oriented architecture with examples."
+            },
+            {
+                "question": "Can you explain dynamic import in JavaScript?",
+                "answerHint": "Discuss the details of dynamic import in JavaScript with examples."
+            },
+            {
+                "question": "Can you explain code coverage?",
+                "answerHint": "Discuss the details of code coverage with examples."
+            },
+            {
+                "question": "Can you explain build automation tools?",
+                "answerHint": "Discuss the details of build automation tools with examples."
+            },
+            {
+                "question": "Can you explain Webpack configurations?",
+                "answerHint": "Discuss the details of Webpack configurations with examples."
+            },
+            {
+                "question": "Can you explain Node.js basics?",
+                "answerHint": "Discuss the details of Node.js basics with examples."
+            },
+            {
+                "question": "Can you explain Express.js?",
+                "answerHint": "Discuss the details of Express.js with examples."
+            },
+            {
+                "question": "Can you explain middleware in Express?",
+                "answerHint": "Discuss the details of middleware in Express with examples."
+            },
+            {
+                "question": "Can you explain API rate limiting?",
+                "answerHint": "Discuss the details of API rate limiting with examples."
+            },
+            {
+                "question": "Can you explain request lifecycle?",
+                "answerHint": "Discuss the details of request lifecycle with examples."
+            },
+            {
+                "question": "Can you explain cross-origin resource sharing (CORS)?",
+                "answerHint": "Discuss the details of cross-origin resource sharing (CORS) with examples."
+            },
+            {
+                "question": "Can you explain HTTP status codes?",
+                "answerHint": "Discuss the details of HTTP status codes with examples."
+            },
+            {
+                "question": "Can you explain REST vs GraphQL?",
+                "answerHint": "Discuss the details of REST vs GraphQL with examples."
+            },
+            {
+                "question": "Can you explain authentication mechanisms?",
+                "answerHint": "Discuss the details of authentication mechanisms with examples."
+            },
+            {
+                "question": "Can you explain basic cryptography concepts?",
+                "answerHint": "Discuss the details of basic cryptography concepts with examples."
+            },
+            {
+                "question": "Can you explain API versioning?",
+                "answerHint": "Discuss the details of API versioning with examples."
+            },
+            {
+                "question": "Can you explain web app security?",
+                "answerHint": "Discuss the details of web app security with examples."
+            },
+            {
+                "question": "Can you explain cross-browser compatibility?",
+                "answerHint": "Discuss the details of cross-browser compatibility with examples."
+            },
+            {
+                "question": "Can you explain basic regular expressions?",
+                "answerHint": "Discuss the details of basic regular expressions with examples."
+            },
+            {
+                "question": "Can you explain software development lifecycle?",
+                "answerHint": "Discuss the details of software development lifecycle with examples."
+            },
+            {
+                "question": "Can you explain stages of debugging?",
+                "answerHint": "Discuss the details of stages of debugging with examples."
+            },
+            {
+                "question": "Can you explain testing frameworks?",
+                "answerHint": "Discuss the details of testing frameworks with examples."
+            },
+            {
+                "question": "Can you explain graph algorithms?",
+                "answerHint": "Discuss the details of graph algorithms with examples."
+            },
+            {
+                "question": "Can you explain middleware chaining?",
+                "answerHint": "Discuss the details of middleware chaining with examples."
+            },
+            {
+                "question": "Can you explain JSON Web Tokens?",
+                "answerHint": "Discuss the details of JSON Web Tokens with examples."
+            },
+            {
+                "question": "Can you explain versioning strategies?",
+                "answerHint": "Discuss the details of versioning strategies with examples."
+            }
+        ],
+        "advanced": [
+            {
+                "question": "Explain the concept of distributed systems.",
+                "answerHint": "Provide an in-depth explanation of distributed systems."
+            },
+            {
+                "question": "Explain the concept of CAP theorem.",
+                "answerHint": "Provide an in-depth explanation of CAP theorem."
+            },
+            {
+                "question": "Explain the concept of eventual consistency.",
+                "answerHint": "Provide an in-depth explanation of eventual consistency."
+            },
+            {
+                "question": "Explain the concept of strong consistency.",
+                "answerHint": "Provide an in-depth explanation of strong consistency."
+            },
+            {
+                "question": "Explain the concept of sharding in databases.",
+                "answerHint": "Provide an in-depth explanation of sharding in databases."
+            },
+            {
+                "question": "Explain the concept of load balancing.",
+                "answerHint": "Provide an in-depth explanation of load balancing."
+            },
+            {
+                "question": "Explain the concept of horizontal scaling.",
+                "answerHint": "Provide an in-depth explanation of horizontal scaling."
+            },
+            {
+                "question": "Explain the concept of vertical scaling.",
+                "answerHint": "Provide an in-depth explanation of vertical scaling."
+            },
+            {
+                "question": "Explain the concept of message queues.",
+                "answerHint": "Provide an in-depth explanation of message queues."
+            },
+            {
+                "question": "Explain the concept of event sourcing.",
+                "answerHint": "Provide an in-depth explanation of event sourcing."
+            },
+            {
+                "question": "Explain the concept of CQRS.",
+                "answerHint": "Provide an in-depth explanation of CQRS."
+            },
+            {
+                "question": "Explain the concept of microservices communication patterns.",
+                "answerHint": "Provide an in-depth explanation of microservices communication patterns."
+            },
+            {
+                "question": "Explain the concept of containerization.",
+                "answerHint": "Provide an in-depth explanation of containerization."
+            },
+            {
+                "question": "Explain the concept of Kubernetes basics.",
+                "answerHint": "Provide an in-depth explanation of Kubernetes basics."
+            },
+            {
+                "question": "Explain the concept of Docker Swarm.",
+                "answerHint": "Provide an in-depth explanation of Docker Swarm."
+            },
+            {
+                "question": "Explain the concept of cloud architecture.",
+                "answerHint": "Provide an in-depth explanation of cloud architecture."
+            },
+            {
+                "question": "Explain the concept of serverless computing.",
+                "answerHint": "Provide an in-depth explanation of serverless computing."
+            },
+            {
+                "question": "Explain the concept of edge computing.",
+                "answerHint": "Provide an in-depth explanation of edge computing."
+            },
+            {
+                "question": "Explain the concept of API gateways.",
+                "answerHint": "Provide an in-depth explanation of API gateways."
+            },
+            {
+                "question": "Explain the concept of monorepos.",
+                "answerHint": "Provide an in-depth explanation of monorepos."
+            },
+            {
+                "question": "Explain the concept of multi-threading.",
+                "answerHint": "Provide an in-depth explanation of multi-threading."
+            },
+            {
+                "question": "Explain the concept of parallel processing.",
+                "answerHint": "Provide an in-depth explanation of parallel processing."
+            },
+            {
+                "question": "Explain the concept of deadlocks.",
+                "answerHint": "Provide an in-depth explanation of deadlocks."
+            },
+            {
+                "question": "Explain the concept of race conditions.",
+                "answerHint": "Provide an in-depth explanation of race conditions."
+            },
+            {
+                "question": "Explain the concept of transaction management.",
+                "answerHint": "Provide an in-depth explanation of transaction management."
+            },
+            {
+                "question": "Explain the concept of ACID properties.",
+                "answerHint": "Provide an in-depth explanation of ACID properties."
+            },
+            {
+                "question": "Explain the concept of BASE principles.",
+                "answerHint": "Provide an in-depth explanation of BASE principles."
+            },
+            {
+                "question": "Explain the concept of domain-driven design.",
+                "answerHint": "Provide an in-depth explanation of domain-driven design."
+            },
+            {
+                "question": "Explain the concept of bounded contexts.",
+                "answerHint": "Provide an in-depth explanation of bounded contexts."
+            },
+            {
+                "question": "Explain the concept of system design principles.",
+                "answerHint": "Provide an in-depth explanation of system design principles."
+            },
+            {
+                "question": "Explain the concept of NoSQL databases.",
+                "answerHint": "Provide an in-depth explanation of NoSQL databases."
+            },
+            {
+                "question": "Explain the concept of schema design.",
+                "answerHint": "Provide an in-depth explanation of schema design."
+            },
+            {
+                "question": "Explain the concept of data partitioning.",
+                "answerHint": "Provide an in-depth explanation of data partitioning."
+            },
+            {
+                "question": "Explain the concept of replication strategies.",
+                "answerHint": "Provide an in-depth explanation of replication strategies."
+            },
+            {
+                "question": "Explain the concept of rate limiting.",
+                "answerHint": "Provide an in-depth explanation of rate limiting."
+            },
+            {
+                "question": "Explain the concept of circuit breaker patterns.",
+                "answerHint": "Provide an in-depth explanation of circuit breaker patterns."
+            },
+            {
+                "question": "Explain the concept of distributed tracing.",
+                "answerHint": "Provide an in-depth explanation of distributed tracing."
+            },
+            {
+                "question": "Explain the concept of observability in systems.",
+                "answerHint": "Provide an in-depth explanation of observability in systems."
+            },
+            {
+                "question": "Explain the concept of service discovery.",
+                "answerHint": "Provide an in-depth explanation of service discovery."
+            },
+            {
+                "question": "Explain the concept of chaos engineering.",
+                "answerHint": "Provide an in-depth explanation of chaos engineering."
+            },
+            {
+                "question": "Explain the concept of immutable infrastructure.",
+                "answerHint": "Provide an in-depth explanation of immutable infrastructure."
+            },
+            {
+                "question": "Explain the concept of infrastructure as code.",
+                "answerHint": "Provide an in-depth explanation of infrastructure as code."
+            },
+            {
+                "question": "Explain the concept of blue-green deployments.",
+                "answerHint": "Provide an in-depth explanation of blue-green deployments."
+            },
+            {
+                "question": "Explain the concept of canary releases.",
+                "answerHint": "Provide an in-depth explanation of canary releases."
+            },
+            {
+                "question": "Explain the concept of feature flags.",
+                "answerHint": "Provide an in-depth explanation of feature flags."
+            },
+            {
+                "question": "Explain the concept of data pipelines.",
+                "answerHint": "Provide an in-depth explanation of data pipelines."
+            },
+            {
+                "question": "Explain the concept of ETL processes.",
+                "answerHint": "Provide an in-depth explanation of ETL processes."
+            },
+            {
+                "question": "Explain the concept of data warehousing.",
+                "answerHint": "Provide an in-depth explanation of data warehousing."
+            },
+            {
+                "question": "Explain the concept of real-time data processing.",
+                "answerHint": "Provide an in-depth explanation of real-time data processing."
+            },
+            {
+                "question": "Explain the concept of big data frameworks.",
+                "answerHint": "Provide an in-depth explanation of big data frameworks."
+            },
+            {
+                "question": "Explain the concept of MapReduce.",
+                "answerHint": "Provide an in-depth explanation of MapReduce."
+            },
+            {
+                "question": "Explain the concept of Hadoop basics.",
+                "answerHint": "Provide an in-depth explanation of Hadoop basics."
+            },
+            {
+                "question": "Explain the concept of Apache Spark.",
+                "answerHint": "Provide an in-depth explanation of Apache Spark."
+            },
+            {
+                "question": "Explain the concept of streaming systems.",
+                "answerHint": "Provide an in-depth explanation of streaming systems."
+            },
+            {
+                "question": "Explain the concept of consensus algorithms.",
+                "answerHint": "Provide an in-depth explanation of consensus algorithms."
+            },
+            {
+                "question": "Explain the concept of Paxos.",
+                "answerHint": "Provide an in-depth explanation of Paxos."
+            },
+            {
+                "question": "Explain the concept of Raft.",
+                "answerHint": "Provide an in-depth explanation of Raft."
+            },
+            {
+                "question": "Explain the concept of network protocols.",
+                "answerHint": "Provide an in-depth explanation of network protocols."
+            },
+            {
+                "question": "Explain the concept of TCP/IP stack.",
+                "answerHint": "Provide an in-depth explanation of TCP/IP stack."
+            },
+            {
+                "question": "Explain the concept of HTTP/2.",
+                "answerHint": "Provide an in-depth explanation of HTTP/2."
+            },
+            {
+                "question": "Explain the concept of QUIC.",
+                "answerHint": "Provide an in-depth explanation of QUIC."
+            },
+            {
+                "question": "Explain the concept of web sockets.",
+                "answerHint": "Provide an in-depth explanation of web sockets."
+            },
+            {
+                "question": "Explain the concept of GraphQL.",
+                "answerHint": "Provide an in-depth explanation of GraphQL."
+            },
+            {
+                "question": "Explain the concept of API security best practices.",
+                "answerHint": "Provide an in-depth explanation of API security best practices."
+            },
+            {
+                "question": "Explain the concept of OAuth2.",
+                "answerHint": "Provide an in-depth explanation of OAuth2."
+            },
+            {
+                "question": "Explain the concept of OpenID Connect.",
+                "answerHint": "Provide an in-depth explanation of OpenID Connect."
+            },
+            {
+                "question": "Explain the concept of JWT.",
+                "answerHint": "Provide an in-depth explanation of JWT."
+            },
+            {
+                "question": "Explain the concept of single sign-on.",
+                "answerHint": "Provide an in-depth explanation of single sign-on."
+            },
+            {
+                "question": "Explain the concept of data encryption techniques.",
+                "answerHint": "Provide an in-depth explanation of data encryption techniques."
+            },
+            {
+                "question": "Explain the concept of SSL/TLS.",
+                "answerHint": "Provide an in-depth explanation of SSL/TLS."
+            },
+            {
+                "question": "Explain the concept of web scraping.",
+                "answerHint": "Provide an in-depth explanation of web scraping."
+            },
+            {
+                "question": "Explain the concept of anti-patterns in software design.",
+                "answerHint": "Provide an in-depth explanation of anti-patterns in software design."
+            },
+            {
+                "question": "Explain the concept of scalability strategies.",
+                "answerHint": "Provide an in-depth explanation of scalability strategies."
+            },
+            {
+                "question": "Explain the concept of database indexing.",
+                "answerHint": "Provide an in-depth explanation of database indexing."
+            },
+            {
+                "question": "Explain the concept of query optimization.",
+                "answerHint": "Provide an in-depth explanation of query optimization."
+            },
+            {
+                "question": "Explain the concept of algorithmic complexity.",
+                "answerHint": "Provide an in-depth explanation of algorithmic complexity."
+            },
+            {
+                "question": "Explain the concept of distributed file systems.",
+                "answerHint": "Provide an in-depth explanation of distributed file systems."
+            },
+            {
+                "question": "Explain the concept of event-driven systems.",
+                "answerHint": "Provide an in-depth explanation of event-driven systems."
+            },
+            {
+                "question": "Explain the concept of lambda architecture.",
+                "answerHint": "Provide an in-depth explanation of lambda architecture."
+            },
+            {
+                "question": "Explain the concept of micro-frontends.",
+                "answerHint": "Provide an in-depth explanation of micro-frontends."
+            },
+            {
+                "question": "Explain the concept of frontend performance optimization.",
+                "answerHint": "Provide an in-depth explanation of frontend performance optimization."
+            },
+            {
+                "question": "Explain the concept of backend performance optimization.",
+                "answerHint": "Provide an in-depth explanation of backend performance optimization."
+            },
+            {
+                "question": "Explain the concept of thread pools.",
+                "answerHint": "Provide an in-depth explanation of thread pools."
+            },
+            {
+                "question": "Explain the concept of asynchronous task scheduling.",
+                "answerHint": "Provide an in-depth explanation of asynchronous task scheduling."
+            },
+            {
+                "question": "Explain the concept of high availability systems.",
+                "answerHint": "Provide an in-depth explanation of high availability systems."
+            },
+            {
+                "question": "Explain the concept of disaster recovery strategies.",
+                "answerHint": "Provide an in-depth explanation of disaster recovery strategies."
+            },
+            {
+                "question": "Explain the concept of data backup strategies.",
+                "answerHint": "Provide an in-depth explanation of data backup strategies."
+            },
+            {
+                "question": "Explain the concept of system reliability engineering.",
+                "answerHint": "Provide an in-depth explanation of system reliability engineering."
+            },
+            {
+                "question": "Explain the concept of deployment pipelines.",
+                "answerHint": "Provide an in-depth explanation of deployment pipelines."
+            },
+            {
+                "question": "Explain the concept of cross-region deployments.",
+                "answerHint": "Provide an in-depth explanation of cross-region deployments."
+            },
+            {
+                "question": "Explain the concept of multi-cloud architectures.",
+                "answerHint": "Provide an in-depth explanation of multi-cloud architectures."
+            },
+            {
+                "question": "Explain the concept of edge case handling.",
+                "answerHint": "Provide an in-depth explanation of edge case handling."
+            },
+            {
+                "question": "Explain the concept of regression testing.",
+                "answerHint": "Provide an in-depth explanation of regression testing."
+            },
+            {
+                "question": "Explain the concept of fuzz testing.",
+                "answerHint": "Provide an in-depth explanation of fuzz testing."
+            }
+        ]
+    }
+}
