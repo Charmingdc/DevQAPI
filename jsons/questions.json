@@ -1,6 +1,5 @@
 {
-    "interviewQuestions": {
-        "beginner": [
+    "beginner": [
             {
                 "question": "What is the purpose of a variable in programming?",
                 "answerHint": "Explain the role of a variable in code."
@@ -1166,5 +1165,4 @@
                 "answerHint": "Provide an in-depth explanation of fuzz testing."
             }
         ]
-    }
 }
