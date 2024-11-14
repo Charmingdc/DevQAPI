@@ -8,7 +8,7 @@ export default async function handler(req, res) {
 
   try {
     // Resolve the path to your JSON file dynamically
-    const filePath = path.join(process.cwd(), 'jsons', 'beginnner.json');
+    const filePath = path.join(process.cwd(), 'jsons', 'beginner.json');
     const data = await fs.readFile(filePath, 'utf8');
     const questions = JSON.parse(data);
     
